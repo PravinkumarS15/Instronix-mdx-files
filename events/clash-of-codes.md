@@ -12,8 +12,6 @@ when: 'day1'
 
 ---
 
-<CustomImage src="https://raw.githubusercontent.com/PravinkumarS15/Instronix-mdx-files/main/images/clash-of-code.jpeg" alt="clashof codes poster" priority="true"/>
-
 #### Cordinators : Pravin S - 9988776655
 #### Date - 25/April/2024
 #### Entry Fee - 250 INR
