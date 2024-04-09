@@ -1,0 +1,31 @@
+---
+
+id: 'clash-of-codes'
+title: 'Clash Of Codes'
+description: 'Eat Sleep Code'
+date: '2024-1-1'
+type: 'Tech'
+tags: ['Coding', 'DSA']
+link: 'https://www.google.com'
+image: '/assets/events/pot-puri.jpeg'
+when: 'day1'
+
+---
+
+<CustomImage src="https://raw.githubusercontent.com/PravinkumarS15/Instronix-mdx-files/main/images/clash-of-code.jpeg" alt="clashof codes poster" priority="true"/>
+
+#### Cordinators : Pravin S - 9988776655
+#### Date - 25/April/2024
+#### Entry Fee - 250 INR
+
+### Rules :
+
+- Clash of Codes is a individual coding contest based on algorithms, data structures and problem solving.
+- Competitors will be tasked with a series of algorithmic challenges of varying difficulty, while working under the pressure of a strict time limit to produce their solutions.
+- Participants can use any programming language they are comfortable in.
+- All the participants must need to bring their own laptops.
+- Three Rounds will be conducted. Each round is an elimination round. Complexity increase s with each rounds.
+- Participants who solved the problem within the time limit will be selected to next round. In case any dead heat happens,  time complexity and space complexity will be analysed for the result.
+- Organiser results will be final.
+- If any team/individual caught on cheating that team will be disqualified.
+- Happy Coding 🚀
